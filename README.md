@@ -1,10 +1,13 @@
 # Trakteer PILL BUTTON
 
 
-[<img src="https://ibnux.github.io/Trakteer-button/trakteer_button.png" width="128">](https://trakteer.id/ibnux)
+[<img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">](https://trakteer.id/ibnux)
+
+ganti **ibnux** dengan username anda
+
 
 ```
-[<img src="https://ibnux.github.io/Trakteer-button/trakteer_button.png" width="128">](https://trakteer.id/ibnux)
+[<img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">](https://trakteer.id/ibnux)
 ```
 
 
