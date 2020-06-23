@@ -4,6 +4,8 @@
 // ini_set('display_errors', 1);
 // error_reporting(-1);
 
+// https://domain/trakteer/nama.png
+
 $_path = array_values(array_filter(explode("/",parse_url($_SERVER['REQUEST_URI'])['path'])));
 $folder = filter_text($_path[0]);
 $text = filter_text(pathinfo($_path[1],PATHINFO_FILENAME));
