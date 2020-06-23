@@ -17,4 +17,4 @@ ganti **ibnux** dengan username anda
 
 
 ## PHP Button Generator
-Upload ke server, chmod 777 folder karyakarsa
+Upload ke server, chmod 777 folder trakteer
