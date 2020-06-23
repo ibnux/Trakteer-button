@@ -12,5 +12,6 @@
 [<img src="https://ibnux.github.io/Trakteer-button/trakteer_button.png" width="200">](https://ibnux.github.io/Trakteer-button/trakteer_button.psd)
 
 
-## TODO
-Nanti akan dibuat Auto generate button
+
+## PHP Button Generator
+Upload ke server, chmod 777 folder karyakarsa
